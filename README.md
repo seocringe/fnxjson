@@ -1,65 +1,24 @@
-# fnxjson README
+# fnxjson
 
-This is the README for your extension "fnxjson". After writing up a brief description, we recommend including the following sections.
+## Описание
+`fnxjson` — это расширение для Visual Studio Code, предназначенное для оптимизации, минимизации и улучшения форматирования JSON файлов. Это расширение позволяет эффективно работать с JSON файлами, удаляя дубликаты, оптимизируя настройки и улучшая читаемость файла.
 
-## Features
+## Особенности
+- **Оптимизация JSON**: Удаляет дублирующиеся и ненужные данные, обеспечивая эффективность и согласованность конфигураций.
+- **Минимизация**: Удаляет ненужные строки и комментарии, делая файл компактнее.
+- **Форматирование**: Улучшает читаемость файла, применяя одинаковые отступы и группируя похожие настройки.
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+## Использование
+Чтобы использовать `fnxjson`, откройте JSON файл в редакторе Visual Studio Code и запустите команду `Optimize JSON`. Это можно сделать, нажав `Ctrl+Shift+P` для открытия палитры команд и введя `Optimize JSON`.
 
-For example if there is an image subfolder under your extension project workspace:
+## Требования
+Для работы `fnxjson` необходимо иметь установленный Visual Studio Code версии 1.84.0 или выше.
 
-\!\[feature X\]\(images/feature-x.png\)
+## Установка
+Вы можете установить `fnxjson` через Visual Studio Code Marketplace. Поиск по `fnxjson` покажет вам расширение, которое можно установить непосредственно в вашем редакторе.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Поддержка и Обратная Связь
+Если у вас есть предложения или вы нашли баг, пожалуйста, сообщите об этом через систему отслеживания проблем на GitHub.
 
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Лицензия
+`fnxjson` распространяется под лицензией MIT. Полный текст лицензии доступен в файле LICENSE, включенном в это расширение.

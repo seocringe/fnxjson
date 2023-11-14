@@ -1,3 +1,4 @@
+
 const vscode = require('vscode');
 
 function activate(context) {
@@ -45,4 +46,9 @@ function deactivate() {}
 module.exports = {
     activate,
     deactivate
+}
+
+
+function optimizeJson(jsonData) {
+    return beautify_json(minimize_json(optimize_json(jsonData)));
 }

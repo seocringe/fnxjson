@@ -2,6 +2,7 @@
   "name": "fnxjson",
   "displayName": "fnxjson",
   "description": "",
+  "repository": "https://github.com/seocringe/fnxjson",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"

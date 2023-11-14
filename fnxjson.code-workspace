@@ -1,0 +1,27 @@
+{
+  "folders": [
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "window.autoDetectColorScheme": false,
+    "screencastMode.keyboardOptions": {
+      "showCommandGroups": true
+    },
+    "workbench.preferredHighContrastColorTheme": "One Monokai",
+    "window.commandCenter": false,
+    "workbench.preferredLightColorTheme": "One Monokai",
+    "workbench.preferredHighContrastLightColorTheme": "One Monokai",
+    "workbench.preferredDarkColorTheme": "One Monokai",
+    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+    "genieai.openai.organization": "org-NPbdo1uxxSgMiyNsn9vdEGgc",
+    "genieai.enableConversationHistory": true,
+    "genieai.openai.temperature": 0.5,
+    "genieai.response.showNotification": true,
+    "genieai.promptPrefix.customPrompt2-enabled": false,
+    "genieai.openai.model": "gpt-4",
+    "genieai.openai.maxTokens": 4096,
+    "github-enterprise.uri": "https://maste"
+  }
+}
