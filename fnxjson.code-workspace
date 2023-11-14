@@ -23,5 +23,10 @@
     "genieai.openai.model": "gpt-4",
     "genieai.openai.maxTokens": 4096,
     "github-enterprise.uri": "https://maste"
+  },
+  "extensions": {
+    "recommendations": [
+      "undefined_publisher.fnxjson"
+    ]
   }
 }
